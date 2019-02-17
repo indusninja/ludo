@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ActivationNetwork inputs="7" layers="10,1">
+	<ActivationLayer neurons="10">
+		<ActivationNeuron weights="8">
+			<Weight>0.4597225573083164</Weight>
+			<Weight>0.31985703052053466</Weight>
+			<Weight>1.3248981388378713</Weight>
+			<Weight>0.9844563102641528</Weight>
+			<Weight>0.4923372737299057</Weight>
+			<Weight>0.07694764206494466</Weight>
+			<Weight>-0.22866826368726864</Weight>
+			<Weight>1.0617575892648023</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>0.9635814196385107</Weight>
+			<Weight>0.836899772174273</Weight>
+			<Weight>1.3306383006648939</Weight>
+			<Weight>0.3713241356160179</Weight>
+			<Weight>0.23550849065021642</Weight>
+			<Weight>-0.14086699727052765</Weight>
+			<Weight>0.12953838368350237</Weight>
+			<Weight>0.7170163280568792</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>0.07921964798375368</Weight>
+			<Weight>0.6181558773901524</Weight>
+			<Weight>0.2289592380192116</Weight>
+			<Weight>0.21554430680745604</Weight>
+			<Weight>0.9153009975335187</Weight>
+			<Weight>0.9024036193899344</Weight>
+			<Weight>0.7287881945581298</Weight>
+			<Weight>0.3702761917156991</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>0.7021942386476422</Weight>
+			<Weight>0.36821815247745593</Weight>
+			<Weight>2.38141408206289</Weight>
+			<Weight>1.7371534616394404</Weight>
+			<Weight>-0.017219192759682724</Weight>
+			<Weight>0.1896214722004768</Weight>
+			<Weight>-0.5438075453785003</Weight>
+			<Weight>1.1078406660724702</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>0.26362294189394514</Weight>
+			<Weight>0.11851203578817736</Weight>
+			<Weight>1.0700775741273902</Weight>
+			<Weight>0.8989443947808302</Weight>
+			<Weight>0.5779467276409025</Weight>
+			<Weight>0.9014118351065765</Weight>
+			<Weight>0.26996756179409614</Weight>
+			<Weight>0.4721994757514921</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>1.1181782939365406</Weight>
+			<Weight>0.7971782898490929</Weight>
+			<Weight>0.7133470353329489</Weight>
+			<Weight>0.3852534171432567</Weight>
+			<Weight>0.40742857963569173</Weight>
+			<Weight>-0.09823397502627616</Weight>
+			<Weight>0.5116791060637589</Weight>
+			<Weight>0.7172322657459821</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>0.5674538069230753</Weight>
+			<Weight>0.3024655043814405</Weight>
+			<Weight>2.2650331164563564</Weight>
+			<Weight>1.2771070959905542</Weight>
+			<Weight>-0.05923869925795321</Weight>
+			<Weight>-0.07355900134436505</Weight>
+			<Weight>-0.4615815898221622</Weight>
+			<Weight>1.0217188314589285</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>-0.05518310549255953</Weight>
+			<Weight>0.38594771845714704</Weight>
+			<Weight>0.3885865127062684</Weight>
+			<Weight>0.10292510281249986</Weight>
+			<Weight>0.30986041151316146</Weight>
+			<Weight>0.5040119351035351</Weight>
+			<Weight>0.5305569884573141</Weight>
+			<Weight>-0.08331275496745326</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>1.1421599784783756</Weight>
+			<Weight>0.7427527174395401</Weight>
+			<Weight>2.4007744386262253</Weight>
+			<Weight>1.0161545772357614</Weight>
+			<Weight>-0.06462805995153328</Weight>
+			<Weight>0.21185722227522125</Weight>
+			<Weight>-0.6733527763813777</Weight>
+			<Weight>1.0702313850519287</Weight>
+		</ActivationNeuron>
+		<ActivationNeuron weights="8">
+			<Weight>0.4306428063817141</Weight>
+			<Weight>0.7332262686662866</Weight>
+			<Weight>1.0611483646517645</Weight>
+			<Weight>0.8224393549907105</Weight>
+			<Weight>0.1887022342309087</Weight>
+			<Weight>0.12033410936374923</Weight>
+			<Weight>0.5318962898563246</Weight>
+			<Weight>0.7661451695298996</Weight>
+		</ActivationNeuron>
+	</ActivationLayer>
+	<ActivationLayer neurons="1">
+		<ActivationNeuron weights="11">
+			<Weight>1.2198816758630342</Weight>
+			<Weight>0.8620351476061568</Weight>
+			<Weight>-0.6531732438674236</Weight>
+			<Weight>2.5656807323987163</Weight>
+			<Weight>0.2814903611945225</Weight>
+			<Weight>0.26884565828666745</Weight>
+			<Weight>2.2723327188412488</Weight>
+			<Weight>-0.7184928416373227</Weight>
+			<Weight>2.551215112227449</Weight>
+			<Weight>0.5084671508803883</Weight>
+			<Weight>3.592556497246413</Weight>
+		</ActivationNeuron>
+	</ActivationLayer>
+</ActivationNetwork>
